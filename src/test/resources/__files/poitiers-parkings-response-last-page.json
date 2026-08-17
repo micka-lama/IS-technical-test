@@ -1,0 +1,48 @@
+{
+  "total": 9,
+  "results": [
+    {
+      "infos_parkingsgeo_point": "46.57505317559496, 0.337126307915689",
+      "_rand": 984767,
+      "_geopoint": "46.57505317559496, 0.337126307915689",
+      "Dernière_mise_à_jour_Base": "2026-08-15T14:10:00.000Z",
+      "Capacite": 665,
+      "_i": 1856762941056947,
+      "Id": 0,
+      "Nom": "BLOSSAC TISON",
+      "_updatedAt": "2026-08-15T14:03:54.810Z",
+      "taux_doccupation": 27.6691729323308,
+      "Places": 481,
+      "_score": null,
+      "_id": "WyVUDT4ni99rbtyesOJh_"
+    },
+    {
+      "_rand": 995010,
+      "Dernière_mise_à_jour_Base": "2026-08-15T14:09:59.000Z",
+      "Capacite": 290,
+      "_i": 1856762941056946,
+      "Id": 6,
+      "Nom": "CORDELIERS",
+      "_updatedAt": "2026-08-15T14:03:54.810Z",
+      "taux_doccupation": 42.7586206896552,
+      "Places": 166,
+      "_score": null,
+      "_id": "LUe4ikOd33IyS8NNeZd15"
+    },
+    {
+      "infos_parkingsgeo_point": "46.583793004495156, 0.3349825350533068",
+      "_rand": 443154,
+      "_geopoint": "46.583793004495156, 0.3349825350533068",
+      "Dernière_mise_à_jour_Base": "2026-08-15T14:09:59.000Z",
+      "Capacite": 137,
+      "_i": 1856762941056945,
+      "Id": 11,
+      "Nom": "ARRET MINUTE",
+      "_updatedAt": "2026-08-15T14:03:54.810Z",
+      "taux_doccupation": 55.4744525547445,
+      "Places": 61,
+      "_score": null,
+      "_id": "pwyMgP-Wf67qGXp5eESz7"
+    }
+  ]
+}
